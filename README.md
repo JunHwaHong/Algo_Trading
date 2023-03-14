@@ -2,12 +2,12 @@
 - Successful Algorithmic Trading 책을 정리한 Code입니다.
 
 ```
-Database
+Database>
   - Create Table
   - Insert Master
   - Populate Prices
   
-Modeling
+Modeling>
   - ADF       : Testing for Mean Reversion - ADF
   - Hurst     : Testing for Stationarity - Hurst Exponent
   - CADF      : Cointegration test - CADF
@@ -15,7 +15,7 @@ Modeling
   - Sharpe    : Calculate Sharpe Ratio
   - VaR       : Value at Risk
   
-Trading
+Trading>
   - Event-Driven Backtester
       - Event
       - DataHandler
